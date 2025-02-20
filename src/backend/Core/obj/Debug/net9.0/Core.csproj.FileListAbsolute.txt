@@ -1,0 +1,12 @@
+D:\SelfLearnings\src\Backend\Core\bin\Debug\net9.0\Core.deps.json
+D:\SelfLearnings\src\Backend\Core\bin\Debug\net9.0\Core.dll
+D:\SelfLearnings\src\Backend\Core\bin\Debug\net9.0\Core.pdb
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.dll
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\refint\Core.dll
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\Core.pdb
+D:\SelfLearnings\src\Backend\Core\obj\Debug\net9.0\ref\Core.dll
